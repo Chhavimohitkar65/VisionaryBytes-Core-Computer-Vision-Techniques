@@ -2,7 +2,10 @@
 
 Welcome to the **Computer Vision** repository! This collection features several Jupyter Notebook files demonstrating various image processing techniques. Each notebook focuses on a specific topic, providing step-by-step explanations and code examples. 🚀
 
+
 ## 📂 Contents
+![Multi-Language Support](https://github.com/user-attachments/assets/fe078452-35ba-4c30-9113-0824fb583809)
+
 
 1. **cannyEdgeDetection.ipynb**: 🖼️ Demonstrates the Canny edge detection algorithm, a popular technique for detecting edges in images.
 2. **harrisCornerDetection.ipynb**: 📍 Learn about Harris corner detection, a method used to identify important features or corners in an image.
